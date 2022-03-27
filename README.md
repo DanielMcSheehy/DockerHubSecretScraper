@@ -1,7 +1,7 @@
 # DockerHubSecretScraper
 Scans recently updated public docker hub images for secrets
 
-## Secrets it looks for 
+### Secrets it looks for 
 "Slack Token"
 "RSA private key"  
 "SSH (OPENSSH) private key" 

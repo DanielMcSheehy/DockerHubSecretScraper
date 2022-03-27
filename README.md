@@ -2,7 +2,7 @@
 Scans recently updated public docker hub images for secrets
 
 ### Secrets it looks for 
-"Slack Token" 
+"Slack Token"  
 "RSA private key"  
 "SSH (OPENSSH) private key"  
 "SSH (DSA) private key"  

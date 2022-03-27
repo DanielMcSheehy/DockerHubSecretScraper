@@ -9,7 +9,7 @@ Scans recently updated public docker hub images for secrets
 "SSH (EC) private key"   
 "PGP private key block"  
 "Facebook Oauth"  
-"Twitter Oauth" 
+"Twitter Oauth"  
 "GitHub"  
 "Google Oauth"  
 "AWS API Key"  
